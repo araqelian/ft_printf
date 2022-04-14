@@ -14,12 +14,12 @@
 
 int main(void)
 {
-	char			*str = "42 Yerevan";
-	int				i = -2147483648;
-	int				hex = 61;
+	char		*str = "42 Yerevan";
+	int		i = -2147483648;
+	int		hex = 61;
 	unsigned int	j = -1;
-	char			*ptr = "Boom Best";
-	char			character = 't';
+	char		*ptr = "Boom Best";
+	char		character = 't';
 	
 
 	printf("printf:		[str: %s] + [int: %i] + [hex: %X] + [unsigned: %u] + [ptr: %p] + [char: %c] + [procent: %%]\n", str, i, hex, j, ptr, character);
