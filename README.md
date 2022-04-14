@@ -1,4 +1,4 @@
-# ft_printf
+# Mandatory part
 
 • %c Prints a single character.
 
